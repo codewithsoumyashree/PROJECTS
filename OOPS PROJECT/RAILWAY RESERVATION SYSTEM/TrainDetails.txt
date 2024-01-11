@@ -1,0 +1,2 @@
+KACHIGUDA EXP,Banglore City,Banglore Cantonment,Yelahanka,Dharmavaram,Anantapur,Kurnool,Kachiguda
+BANGLORE EXP,Kachiguda,Kurnool,Anantapur,Dharmavaram,Yelahanka,Banglore Cantonment,Banglore City

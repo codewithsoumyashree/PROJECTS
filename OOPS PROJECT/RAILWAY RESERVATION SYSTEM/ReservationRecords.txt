@@ -1,0 +1,5 @@
+0,kachiguda exp,yelahanka,kurnool,srinu,32,m,sleeper,28/12/2008
+1,kachiguda exp,yelahanka,kurnool,suhasini,30,f,sleeper,28/12/2008
+2,bangalore exp,kachiguda,anantapur,madhu,30,m,sleeper,22/1/2009
+3,kachiguda exp,bangalore city,kachiguda,suraj,32,m,sleeper,1/2/2009
+4,bangalore exp,kachiguda,yelahanka,srinu,32,m,sleeper,20/1/2009
